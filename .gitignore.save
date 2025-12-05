@@ -1,0 +1,11 @@
+venv/
+binom/
+env/
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+diagnoses.db
+.DS_Store
+

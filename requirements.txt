@@ -1,0 +1,3 @@
+PyQt5
+g4f
+typing_extensions
